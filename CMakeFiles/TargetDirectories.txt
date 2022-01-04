@@ -1,0 +1,3 @@
+/home/ia2017/hpc-exercises/hpc-coursework-new/CMakeFiles/rebuild_cache.dir
+/home/ia2017/hpc-exercises/hpc-coursework-new/CMakeFiles/runliddrivencavity.dir
+/home/ia2017/hpc-exercises/hpc-coursework-new/CMakeFiles/edit_cache.dir
